@@ -1,4 +1,5 @@
-#cPanel & WHM Security Update 04/28/2026
+# cPanel & WHM Security Update 04/28/2026
+
 This repository documents a critical security update response workflow for a high-severity vulnerability discovered in cPanel & WHM (April 2026 release).
 
 The issue impacted all currently supported versions and was related to multiple authentication path handling, which could potentially lead to unauthorized access under specific conditions. Due to the severity, immediate patch deployment was required across production hosting environments.
