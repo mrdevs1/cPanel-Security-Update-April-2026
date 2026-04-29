@@ -1,4 +1,4 @@
-# cPanel & WHM Security Update 04/28/2026
+# cPanel & WHM Security Update (CRITICAL) 04/28/2026
 
 This repository documents a critical security update response workflow for a high-severity vulnerability discovered in cPanel & WHM (April 2026 release).
 
